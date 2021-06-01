@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Poke-Hang/static/css/main.aa94fc56.chunk.css",
+    "main.js": "/Poke-Hang/static/js/main.830ab4d6.chunk.js",
+    "main.js.map": "/Poke-Hang/static/js/main.830ab4d6.chunk.js.map",
+    "runtime-main.js": "/Poke-Hang/static/js/runtime-main.b0169a05.js",
+    "runtime-main.js.map": "/Poke-Hang/static/js/runtime-main.b0169a05.js.map",
+    "static/js/2.38fa20d5.chunk.js": "/Poke-Hang/static/js/2.38fa20d5.chunk.js",
+    "static/js/2.38fa20d5.chunk.js.map": "/Poke-Hang/static/js/2.38fa20d5.chunk.js.map",
+    "index.html": "/Poke-Hang/index.html",
+    "precache-manifest.e9b07b799bf8cac8697fca7abc71e1d6.js": "/Poke-Hang/precache-manifest.e9b07b799bf8cac8697fca7abc71e1d6.js",
+    "service-worker.js": "/Poke-Hang/service-worker.js",
+    "static/css/main.aa94fc56.chunk.css.map": "/Poke-Hang/static/css/main.aa94fc56.chunk.css.map",
+    "static/js/2.38fa20d5.chunk.js.LICENSE.txt": "/Poke-Hang/static/js/2.38fa20d5.chunk.js.LICENSE.txt",
+    "static/media/Ash.png": "/Poke-Hang/static/media/Ash.8867062b.png",
+    "static/media/Beedrill.png": "/Poke-Hang/static/media/Beedrill.9468f3d7.png",
+    "static/media/Bulbasaur.png": "/Poke-Hang/static/media/Bulbasaur.a6f7c0c3.png",
+    "static/media/Charmander.png": "/Poke-Hang/static/media/Charmander.9a89e9f1.png",
+    "static/media/Growlithe.png": "/Poke-Hang/static/media/Growlithe.3c2322b2.png",
+    "static/media/Haunter.png": "/Poke-Hang/static/media/Haunter.797c2316.png",
+    "static/media/Heart.png": "/Poke-Hang/static/media/Heart.ce5fd141.png",
+    "static/media/Meowth.png": "/Poke-Hang/static/media/Meowth.ebd64115.png",
+    "static/media/Pidgeotto.png": "/Poke-Hang/static/media/Pidgeotto.f60b96bc.png",
+    "static/media/Pikachu.png": "/Poke-Hang/static/media/Pikachu.5c69e45f.png",
+    "static/media/Pokeball.png": "/Poke-Hang/static/media/Pokeball.3c5b7682.png",
+    "static/media/Raticate.png": "/Poke-Hang/static/media/Raticate.84010aba.png",
+    "static/media/Sandshrew.png": "/Poke-Hang/static/media/Sandshrew.d0b169f4.png",
+    "static/media/Squirtle.png": "/Poke-Hang/static/media/Squirtle.62d46639.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0169a05.js",
+    "static/js/2.38fa20d5.chunk.js",
+    "static/css/main.aa94fc56.chunk.css",
+    "static/js/main.830ab4d6.chunk.js"
+  ]
+}
