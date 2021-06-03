@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4661d00db5cc2ab6066aef65dd4a286e",
+    "revision": "3ea8874c2d7b92bd3329825e027fc0f9",
     "url": "/Poke-Hang/index.html"
   },
   {
-    "revision": "8083f5bc4126fca3d105",
-    "url": "/Poke-Hang/static/css/main.3b349321.chunk.css"
+    "revision": "e99d5dd05530f36ed9d7",
+    "url": "/Poke-Hang/static/css/main.2dfff071.chunk.css"
   },
   {
     "revision": "7ebf7ae0cab62e69c410",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Poke-Hang/static/js/2.46fd2074.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8083f5bc4126fca3d105",
+    "revision": "e99d5dd05530f36ed9d7",
     "url": "/Poke-Hang/static/js/main.72799b6a.chunk.js"
   },
   {
