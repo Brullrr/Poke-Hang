@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Poke-Hang/static/css/main.258602cc.chunk.css",
-    "main.js": "/Poke-Hang/static/js/main.72799b6a.chunk.js",
-    "main.js.map": "/Poke-Hang/static/js/main.72799b6a.chunk.js.map",
+    "main.css": "/Poke-Hang/static/css/main.ff581a6e.chunk.css",
+    "main.js": "/Poke-Hang/static/js/main.7906e8b7.chunk.js",
+    "main.js.map": "/Poke-Hang/static/js/main.7906e8b7.chunk.js.map",
     "runtime-main.js": "/Poke-Hang/static/js/runtime-main.b0169a05.js",
     "runtime-main.js.map": "/Poke-Hang/static/js/runtime-main.b0169a05.js.map",
     "static/js/2.46fd2074.chunk.js": "/Poke-Hang/static/js/2.46fd2074.chunk.js",
     "static/js/2.46fd2074.chunk.js.map": "/Poke-Hang/static/js/2.46fd2074.chunk.js.map",
     "index.html": "/Poke-Hang/index.html",
-    "precache-manifest.62ff31c76130abe1cd58d15411562ff8.js": "/Poke-Hang/precache-manifest.62ff31c76130abe1cd58d15411562ff8.js",
+    "precache-manifest.5b887bbb2912c0ebf415ae8e1cb1c267.js": "/Poke-Hang/precache-manifest.5b887bbb2912c0ebf415ae8e1cb1c267.js",
     "service-worker.js": "/Poke-Hang/service-worker.js",
-    "static/css/main.258602cc.chunk.css.map": "/Poke-Hang/static/css/main.258602cc.chunk.css.map",
+    "static/css/main.ff581a6e.chunk.css.map": "/Poke-Hang/static/css/main.ff581a6e.chunk.css.map",
     "static/js/2.46fd2074.chunk.js.LICENSE.txt": "/Poke-Hang/static/js/2.46fd2074.chunk.js.LICENSE.txt",
     "static/media/Ash.png": "/Poke-Hang/static/media/Ash.8867062b.png",
     "static/media/Beedrill.png": "/Poke-Hang/static/media/Beedrill.9468f3d7.png",
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0169a05.js",
     "static/js/2.46fd2074.chunk.js",
-    "static/css/main.258602cc.chunk.css",
-    "static/js/main.72799b6a.chunk.js"
+    "static/css/main.ff581a6e.chunk.css",
+    "static/js/main.7906e8b7.chunk.js"
   ]
 }

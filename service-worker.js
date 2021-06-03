@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Poke-Hang/precache-manifest.62ff31c76130abe1cd58d15411562ff8.js"
+  "/Poke-Hang/precache-manifest.5b887bbb2912c0ebf415ae8e1cb1c267.js"
 );
 
 self.addEventListener('message', (event) => {
